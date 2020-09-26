@@ -19,12 +19,17 @@ Realizar a criação de uma wallet, recebimento de bct via faucets e transferenc
  ![recebimentos](https://user-images.githubusercontent.com/25912805/94326563-1402a780-ff7b-11ea-8c82-08196f99b5bc.jpg)
 
 Envio para a carteira solicitada:
+
 ![BtcenvioI](https://user-images.githubusercontent.com/25912805/94326581-3a284780-ff7b-11ea-87f7-4ddc118fadf7.jpg)
 
 Tentativa de envio para carteira própria:
+
 ![enviocarteirapropria](https://user-images.githubusercontent.com/25912805/94326597-588e4300-ff7b-11ea-9db3-e75c5ef8fe6d.jpg)
 
 Devolução para o Faucet com taxa:
+
+
+
 ![faucetdev](https://user-images.githubusercontent.com/25912805/94326833-3ac1dd80-ff7d-11ea-87df-b1c4786e5837.jpg)
 
 
